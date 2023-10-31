@@ -1,1 +1,1 @@
-Media da sala em C
+Media da sala
