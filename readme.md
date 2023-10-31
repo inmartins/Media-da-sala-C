@@ -1,1 +1,1 @@
-Media da sala
+Media dos alunos
